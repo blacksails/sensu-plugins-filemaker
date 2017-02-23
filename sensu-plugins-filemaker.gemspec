@@ -5,7 +5,7 @@ require 'sensu-plugins-filemaker/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "sensu-plugins-filemaker"
-  spec.version       = SensuPluginsZFS::VERSION
+  spec.version       = SensuPluginsFilemaker::VERSION
   spec.authors       = ["Benjamin Nørgaard"]
   spec.email         = ["b@noergaard.dk"]
 
